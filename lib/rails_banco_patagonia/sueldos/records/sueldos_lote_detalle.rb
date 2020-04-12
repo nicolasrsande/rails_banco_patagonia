@@ -25,12 +25,11 @@ module RailsBancoPatagonia
       field :codigo_dependencia, 15, '85-99', :numeric
       field :espacios, 1, '100-100', :alphanumeric
       field :tipo_liquidacion, 3, '101-103', :numeric
-      field :espacios2, 93, '104-196', :numeric
+      field :espacios2, 93, '104-196', :alphanumeric
       field :numero_empresa, 4, '197-200', :numeric
 
       def initialize(item, lote_count, numero_empresa)
-        @espacios = ' '
-        @espacios2 = 0
+        @espacios = @espacios2 = ' '
         @tipo_registro = 2 # fixed value
         @numero_lote = lote_count
         @numero_empresa = numero_empresa

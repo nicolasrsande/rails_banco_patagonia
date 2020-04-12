@@ -70,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586668272363</updated>
-      <workItem from="1586668274828" duration="3706000" />
+      <workItem from="1586668274828" duration="4005000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1586668547199</created>
@@ -142,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586671529489</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Commit for testing attr reader">
+      <created>1586671997529</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1586671997529</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,10 +167,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668333153" />
-    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586671529363">
+    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586671997409">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586671529363" />
+    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586671997409" />
     <state x="682" y="456" key="Github.Dialog.Accounts.Choose" timestamp="1586668939821">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -176,9 +183,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668436494" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586671531080">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586671999125">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586671531080" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586671999125" />
   </component>
 </project>

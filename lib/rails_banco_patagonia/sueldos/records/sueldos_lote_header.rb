@@ -21,7 +21,7 @@ module RailsBancoPatagonia
       field :numero_envio, 2, '43-44', :numeric
       field :espacios, 144, '45-188', :alphanumeric
       field :version, 8, '189-196', :alphanumeric
-      field :numero_empresa, 4, '197-200', :alphanumeric
+      field :numero_empresa, 4, '197-200', :numeric
 
       def initialize(item, numero_lote, numero_empresa, numero_envio)
         @espacios = @version = ' '

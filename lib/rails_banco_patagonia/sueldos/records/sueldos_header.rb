@@ -15,7 +15,7 @@ module RailsBancoPatagonia
       field :codigo_banco, 3, '2-4', :numeric
       field :espacios, 5, '5-9', :alphanumeric
       field :numero_empresa, 4, '10-13', :numeric
-      field :fecha_presentacion, 8, '14-21', :alphanumeric
+      field :fecha_presentacion, 8, '14-21', :numeric
       field :numero_envio, 2, '22-23', :numeric
       field :cantidad_lotes, 4, '24-27', :numeric
       field :espacios2, 2, '28-29', :alphanumeric

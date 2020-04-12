@@ -40,11 +40,11 @@ module RailsBancoPatagonia
         @apellido_nombre = item[:name]
         @codigo_banco = item[:codigo_banco]
         @codigo_sucursal = item[:codigo_sucursal]
-        @tipo_documento = item[:tipo_documento] || 001 # default DNI
+        @tipo_documento = item[:tipo_documento] || 1 # default DNI
         @numero_documento = item[:numero_documento]
-        @provincia_documento = item[:provincia_documento] || 01 # default CABA
+        @provincia_documento = item[:provincia_documento] || 1 # default CABA
         @codigo_dependencia = item[:codigo_dependencia]
-        @tipo_liquidacion = item[:tipo_liquidacion] || 001 # default SUELDOS
+        @tipo_liquidacion = item[:tipo_liquidacion] || 1 # default SUELDOS
       end
 
       attr_reader :tipo_registro, :numero_lote, :numero_empresa, :tipo_cuenta, :numero_cuenta, :importe_acreditar,

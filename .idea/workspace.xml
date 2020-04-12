@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ff3d45d-b14c-4f38-a6e9-d1e0a7d93714" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rails_banco_patagonia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/fixy/formatters/numeric.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/sueldos.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/version.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rails_banco_patagonia.gemspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/rails_banco_patagonia_spec.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/sueldos.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/sueldos.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +20,9 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="987f6863-709d-47b2-9119-62638358707c" />
   </component>
   <component name="ProjectId" id="1aQMiNqMwziyAvZh8EZ6BRuZ7WW" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -85,22 +70,82 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586668272363</updated>
-      <workItem from="1586668274828" duration="60000" />
+      <workItem from="1586668274828" duration="2589000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1586668547199</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586668547199</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change gemspec">
+      <created>1586668890922</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586668890922</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change gemspec">
+      <created>1586668932780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586668932780</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Change gemspec">
+      <created>1586668984989</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586668984989</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Change gemspec">
+      <created>1586669194678</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1586669194678</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fix range?">
+      <created>1586669445493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1586669445493</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fix range?">
+      <created>1586669774916</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1586669774916</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <MESSAGE value="Change gemspec" />
+    <MESSAGE value="fix range?" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix range?" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586668333153">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668333153" />
-    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586668493501">
+    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586669774782">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586668493501" />
+    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586669774782" />
+    <state x="682" y="456" key="Github.Dialog.Accounts.Choose" timestamp="1586668939821">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="682" y="456" key="Github.Dialog.Accounts.Choose/0.0.1680.1050@0.0.1680.1050" timestamp="1586668939821" />
     <state x="604" y="408" key="Github.ShareDialog" timestamp="1586668414094">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -109,5 +154,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668436494" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586669776399">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586669776399" />
   </component>
 </project>

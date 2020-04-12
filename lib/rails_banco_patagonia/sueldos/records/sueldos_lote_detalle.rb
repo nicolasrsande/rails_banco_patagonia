@@ -29,7 +29,8 @@ module RailsBancoPatagonia
       field :numero_empresa, 4, '197-200', :numeric
 
       def initialize(item, lote_count, numero_empresa)
-        @espacios = @espacios2 = @version = ' '
+        @espacios = ' '
+        @espacios2 = 0
         @tipo_registro = 2 # fixed value
         @numero_lote = lote_count
         @numero_empresa = numero_empresa

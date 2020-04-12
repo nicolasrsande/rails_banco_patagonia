@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5ff3d45d-b14c-4f38-a6e9-d1e0a7d93714" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586668272363</updated>
-      <workItem from="1586668274828" duration="3231000" />
+      <workItem from="1586668274828" duration="3706000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1586668547199</created>
@@ -137,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586670895613</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Commit for testing attr reader">
+      <created>1586671529489</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1586671529489</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,10 +160,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668333153" />
-    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586670895488">
+    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586671529363">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586670895488" />
+    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586671529363" />
     <state x="682" y="456" key="Github.Dialog.Accounts.Choose" timestamp="1586668939821">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -171,9 +176,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668436494" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586670898364">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586671531080">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586670898364" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586671531080" />
   </component>
 </project>

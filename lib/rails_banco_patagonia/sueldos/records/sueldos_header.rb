@@ -27,6 +27,7 @@ module RailsBancoPatagonia
       field :numero_empresa2, 4, '197-200', :numeric
 
       def initialize(attrs = {})
+        @espacios = @espacios2 = @espacios3 = @espacios4 = @version = ' '
         @tipo_registro = 0
         @codigo_banco = 034
         @numero_empresa = @numero_empresa2 = attrs[:numero_empresa]
@@ -38,7 +39,8 @@ module RailsBancoPatagonia
       end
 
       attr_reader :tipo_registro, :codigo_banco, :numero_empresa, :numero_empresa2, :fecha_presentacion,
-      :numero_envio, :cantidad_lotes, :importe_lotes, :tipo_acreditacion
+      :numero_envio, :cantidad_lotes, :importe_lotes, :tipo_acreditacion, :espacios, :espacios2, :espacios3, :espacios4,
+      :version
 
     end
   end

@@ -24,6 +24,7 @@ module RailsBancoPatagonia
       field :numero_empresa, 4, '197-200', :alphanumeric
 
       def initialize(item, numero_lote, numero_empresa, numero_envio)
+        @espacios = @version = ' '
         @tipo_registro = 1 # fixed value
         @tipo_movimiento = 2 # fixed value
         @cantidad_lote = 1 # siempre la acreditacion va a ser total
@@ -36,7 +37,7 @@ module RailsBancoPatagonia
       end
 
       attr_reader :tipo_movimiento, :tipo_registro, :cantidad_lote, :numero_envio, :numero_empresa, :numero_lote,
-                  :concepto, :importe_lote, :fecha_acreditacion
+                  :concepto, :importe_lote, :fecha_acreditacion, :espacios, :version
 
     end
   end

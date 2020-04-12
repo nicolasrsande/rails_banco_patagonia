@@ -46,6 +46,10 @@ module RailsBancoPatagonia
         @tipo_liquidacion = item[:tipo_liquidacion] || 001 # default SUELDOS
       end
 
+      attr_reader :tipo_registro, :numero_lote, :numero_empresa, :tipo_cuenta, :numero_cuenta, :importe_acreditar,
+      :numero_comprobante, :apellido_nombre, :codigo_banco, :codigo_sucursal, :tipo_documento, :numero_documento,
+      :provincia_documento, :codigo_dependencia, :tipo_liquidacion
+
     end
   end
 end

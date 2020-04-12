@@ -37,6 +37,9 @@ module RailsBancoPatagonia
         @tipo_acreditacion = attrs[:tipo_acreditacion] || 0
       end
 
+      attr_reader :tipo_registro, :codigo_banco, :numero_empresa, :numero_empresa2, :fecha_presentacion,
+      :numero_envio, :cantidad_lotes, :importe_lotes, :tipo_acreditacion
+
     end
   end
 end

@@ -35,6 +35,9 @@ module RailsBancoPatagonia
         @fecha_acreditacion = item[:fecha_acreditacion]
       end
 
+      attr_reader :tipo_movimiento, :tipo_registro, :cantidad_lote, :numero_envio, :numero_empresa, :numero_lote,
+                  :concepto, :importe_lote, :fecha_acreditacion
+
     end
   end
 end

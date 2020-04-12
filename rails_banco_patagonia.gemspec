@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Integracion con servicios de Banco Patagonia.}
   spec.description   = %q{Integracion con servicios de Banco Patagonia.}
-  spec.homepage      = "www.nicolasrsande.com"
+  spec.homepage      = "https://www.nicolasrsande.com"
   spec.license       = "MIT"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
 

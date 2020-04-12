@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ff3d45d-b14c-4f38-a6e9-d1e0a7d93714" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rails_banco_patagonia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.rspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/fixy/formatters/numeric.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/sueldos.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/version.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rails_banco_patagonia.gemspec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/rails_banco_patagonia_spec.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spec/spec_helper.rb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="nicolasrsande@gmail.com" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1aQMiNqMwziyAvZh8EZ6BRuZ7WW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
+      <module name="rails_banco_patagonia" />
+      <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="WORK DIR" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="SHOULD_USE_SDK" VALUE="false" />
+      <COMMAND_RUN_CONFIGURATION NAME="ALTERN_SDK_NAME" VALUE="" />
+      <COMMAND_RUN_CONFIGURATION NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <COMMAND_CONFIG_SETTINGS_ID NAME="GEM_NAME" VALUE="RailsBancoPatagonia" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_NAME" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="EXECUTABLE_ARGS" VALUE="" />
+      <COMMAND_CONFIG_SETTINGS_ID NAME="WORKING_DIR" VALUE="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ff3d45d-b14c-4f38-a6e9-d1e0a7d93714" name="Default Changelist" comment="" />
+      <created>1586668272363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586668272363</updated>
+      <workItem from="1586668274828" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586668333153">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668333153" />
+    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586668493501">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586668493501" />
+    <state x="604" y="408" key="Github.ShareDialog" timestamp="1586668414094">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="604" y="408" key="Github.ShareDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668414094" />
+    <state x="578" y="238" key="Github.UntrackedFilesDialog" timestamp="1586668436494">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="578" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668436494" />
+  </component>
+</project>

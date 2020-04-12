@@ -14,7 +14,7 @@ module RailsBancoPatagonia
       field :tipo_registro, 1, '1-1', :numeric
       field :numero_lote, 4, '2-5', :numeric
       field :tipo_movimiento, 1, '6-6', :numeric
-      field :concepto, 7, '7-16', :alphanumeric
+      field :concepto, 10, '7-16', :alphanumeric
       field :cantidad_lote, 3, '17-19', :numeric
       field :importe_lote, 15, '20-34', :numeric
       field :fecha_acreditacion, 8, '35-42', :numeric

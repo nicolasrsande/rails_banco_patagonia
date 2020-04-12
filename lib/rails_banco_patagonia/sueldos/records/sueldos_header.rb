@@ -26,16 +26,17 @@ module RailsBancoPatagonia
       field :version, 8, '189-196', :alphanumeric
       field :numero_empresa2, 4, '197-200', :numeric
 
-      def initialize(attrs = {})
+      # Field Definition
+      def initialize(numero_empresa, numero_envio, lote_count, importe_total, tipo_acreditacion, fecha_presentacion)
         @espacios = @espacios2 = @espacios3 = @espacios4 = @version = ' '
         @tipo_registro = 0
         @codigo_banco = 034
-        @numero_empresa = @numero_empresa2 = attrs[:numero_empresa]
-        @fecha_presentacion = attrs[:fecha_presentacion] || Date.now
-        @numero_envio = attrs[:numero_envio] || 1
-        @cantidad_lotes = attrs[:cantidad_lotes]
-        @importe_lotes = attrs[:importe_total]
-        @tipo_acreditacion = attrs[:tipo_acreditacion] || 0
+        @numero_empresa = @numero_empresa2 = numero_empresa
+        @fecha_presentacion = fecha_presentacion
+        @numero_envio = numero_envio
+        @cantidad_lotes = lote_count
+        @importe_lotes = importe_total
+        @tipo_acreditacion = tipo_acreditacion
       end
 
       attr_reader :tipo_registro, :codigo_banco, :numero_empresa, :numero_empresa2, :fecha_presentacion,

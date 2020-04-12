@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_header.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_detalle.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/records/sueldos_lote_header.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/sueldos.rb" beforeDir="false" afterPath="$PROJECT_DIR$/lib/rails_banco_patagonia/sueldos/sueldos.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +73,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1586668272363</updated>
-      <workItem from="1586668274828" duration="5141000" />
+      <workItem from="1586668274828" duration="6849000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1586668547199</created>
@@ -158,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586672298425</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fixes">
+      <created>1586673430790</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1586673430790</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,17 +177,18 @@
     <MESSAGE value="Change gemspec" />
     <MESSAGE value="fix range?" />
     <MESSAGE value="Commit for testing attr reader" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit for testing attr reader" />
+    <MESSAGE value="Fixes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixes" />
   </component>
   <component name="WindowStateProjectService">
     <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586668333153">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="304" y="187" width="1071" height="708" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668333153" />
-    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586672298299">
+    <state x="401" y="127" key="CommitChangelistDialog2" timestamp="1586673430666">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586672298299" />
+    <state x="401" y="127" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1586673430666" />
     <state x="682" y="456" key="Github.Dialog.Accounts.Choose" timestamp="1586668939821">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -192,9 +201,9 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="578" y="238" key="Github.UntrackedFilesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1586668436494" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586672299885">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1586673432288">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586672299885" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1586673432288" />
   </component>
 </project>
